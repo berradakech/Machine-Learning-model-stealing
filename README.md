@@ -1,4 +1,4 @@
-<h1>Homomorphic Encryption for ML Model Inference and Prediction-as-a-Service Model Stealing</h1>
+<h1>Prediction-as-a-Service Model Stealing</h1>
 
 
 <h2>Description</h2>
